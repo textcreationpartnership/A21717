@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Le morte d'Arthur]</title>
+            <title>Morte d'Arthur</title>
+            <author>Malory, Thomas, Sir, 15th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1498</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21717</idno>
+            <idno type="STC">STC 802</idno>
+            <idno type="STC">ESTC S115251</idno>
+            <idno type="EEBO-CITATION">99850470</idno>
+            <idno type="PROQUEST">99850470</idno>
+            <idno type="VID">15677</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15677)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1298:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Le morte d'Arthur]</title>
+                  <title>Morte d'Arthur</title>
+                  <author>Malory, Thomas, Sir, 15th cent.</author>
+               </titleStmt>
+               <extent>[2+] leaves   </extent>
+               <publicationStmt>
+                  <publisher>Wynkyn de Worde,</publisher>
+                  <pubPlace>[Westmestre :</pubPlace>
+                  <date>1498]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "Morte d'Arthur" of Sir Thomas Malory.</note>
+                  <note>Title and signatures from Duff; imprint from STC.</note>
+                  <note>Signatures: .6 : a-s6 t-v A-C6 D-H I-V6 X4 Y6 [blackletter]A-E6.</note>
+                  <note>Imperfect; a fragment, lacks all but two leaves, t2,3.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Arthur, --  King --  Romances.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15677:1" rendition="simple:additions"/>
+            <pb facs="tcp:15677:1"/>
+            <p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>ſeneſchall / and ſyr Fergus. And ſo by the aduyſe of them all ſyr Tryſtram was bannyſſhed out of the cou<g ref="char:cmbAbbrStroke">̄</g>tree of Cornewayle for ten yere / &amp; therupon he toke his othe vppon a booke before the kyng &amp; his barons / and ſo he was made to departe out of the cou<g ref="char:cmbAbbrStroke">̄</g>tree of Cornewayle / &amp; the were many ba<g ref="char:EOLhyphen"/>rons brought hym vnto his ſhyp / of the whiche ſome were his frendes and ſome his foos. And in the meane why<g ref="char:EOLunhyphen"/>le there came a knyght of kyng Ar<g ref="char:EOLhyphen"/>thurs his name was Dynadan / &amp; his comynge was to ſeke after ſyr Try<g ref="char:EOLhyphen"/>ſtram thenne they ſhewed hym where he was armed at all poyntes goynge to the ſhyp. Now fayre knyght ſayd ſyr Dynadan or ye paſſe this courte y<hi rend="sup">t</hi> ye wyll Iuſte with me I requyre the / With a good wyl ſayd ſyr Tryſtram &amp; theſe lordes wyll gyue me leue. Soo the barons graunted therto / &amp; ſo they ranne togyder / &amp; there ſyr Tryſtram gaf ſyr Dynadan a falle. And thenne he prayed ſyr Tryſtram to gyue hym leue to go in his felauſhyp. Ye ſhall be ryght welcome ſayd ſyr Tryſtram &amp; ſoo they toke theyr horſes and rode to theyr ſhyppes togyder. And whan ſyr Tryſtram was in the ſee he ſayd. Grete well kyng Marke &amp; all myn enemyes / and ſaye them I wyll come agayne whay I may. And well am I rewarded for the fyghtynge with ſyr Marhaus / &amp; delyuered all this cou<g ref="char:cmbAbbrStroke">̄</g>tree from ſeruage / &amp; well am I rewarded for the fetchynge and coſtes of quene Iſoude out of Irlonde / &amp; the dau<g ref="char:cmbAbbrStroke">̄</g>ger that I was in fyrſt &amp; laſte / and by the waye comynge home what dau<g ref="char:cmbAbbrStroke">̄</g>ger I had to brynge agayne quene Iſoude from the caſtell Pluere / and well am I rewarded whan I fought with ſyr Bleoberys for ſyr Segwarydes wyf / &amp; well am I rewarded whan I fought with ſyr Blamor de ganys for kyng Anguyſſhe fader vnto la beale Iſoude and well am I rewarded whan I ſmo<g ref="char:EOLunhyphen"/>te doun the good knyght ſyr Lamerok de galys at kyng Markes requeſt / &amp; well am I rewarded whan I fought with the kyng w<hi rend="sup">t</hi> the hondred knygh<g ref="char:EOLhyphen"/>tes and the kyng of Northgalys / and bothe theſe wolde haue put his londe in ſeruage / &amp; by me they were put to a rebuke / and well am I rewarded for the ſleynge of Tauleas the myghty gyau<g ref="char:cmbAbbrStroke">̄</g>t / and many other dedes haue I done for hym / &amp; now haue I my wa<g ref="char:EOLhyphen"/>ryſon. And telle kyng Marke that ma<g ref="char:EOLunhyphen"/>ny noble knyghtes of the table rou<g ref="char:cmbAbbrStroke">̄</g>de haue ſpared the barons of this cou<g ref="char:cmbAbbrStroke">̄</g>tre for my ſake. Alſo am I not well re<g ref="char:EOLhyphen"/>warded whan I fought with the good knyght ſyr Palomydes and reſcowed quene Iſoude from hym. And at that tyme kyng Marke ſayd afore all his barons I ſholde haue ben better rewar<g ref="char:EOLunhyphen"/>ded / &amp; forth withall he toke the ſee.</p>
+         </div>
+         <div n="23" type="chapter">
+            <head>¶ How a damoyſell ſought helpe to helpe ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot ayenſt. xxx. knygh<g ref="char:EOLunhyphen"/>tes / &amp; how ſyr Tryſtram fought with them. ca. xxiij.</head>
+            <p>ANd at the next londynge faſte by the ſee there mette with ſyr Tryſtram &amp; with ſyr Dynadan ſyr Ector de marys and ſyr Bors de ga<g ref="char:EOLhyphen"/>nys / and there ſyr Ector Iuſted with ſyr Dynadan / and he ſmote hym and his hors doun. And thenne ſyr Try<g ref="char:EOLhyphen"/>ſtram wolde haue Iuſted w<hi rend="sup">t</hi> ſyr Bors and ſyr Bors ſayd that he wolde not
+<pb facs="tcp:15677:2"/>Iuſte with noo Cornyſſhe knyghtes / for they are not called men of worſhyp and all this was done vpon a brydge. &amp; with this came ſyr Bleoberys &amp; ſyr Dryaunt / and ſyr Bleoberys profred to Iuſte with ſyr Tryſtram / &amp; there ſyr Tryſtram ſmote doun ſyr Bleo<g ref="char:EOLhyphen"/>berys. Thenne ſayd ſyr Bors de ga<g ref="char:EOLhyphen"/>nys. I wyſt neuer Cornyſſhe knyght of ſo grete valoure nor ſo valyau<g ref="char:cmbAbbrStroke">̄</g>t as that knyght that bereth the trappours enbroudred with crownes. And thenne ſyr Tryſtram &amp; ſyr Dynadan depar<g ref="char:EOLhyphen"/>ted fro them in to a foreſt / &amp; there met them a damoyſel that came for the lo<g ref="char:EOLunhyphen"/>ue of ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot to ſeke after ſome noble knyghtes of kyng Arthurs cour<g ref="char:EOLunhyphen"/>te for to reſcowe ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot / and ſo there was ordeyned for ſyr Launcelot by the treaſon of quene Morgan le fay to haue ſlayne ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot / &amp; for that cauſe ſhe ordeyned. xxx. knyghtes to lye in a wayte for ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot / &amp; this damoyſell knewe this treaſon. And for this cauſe the damoyſell came to ſeke noble knyghtes to helpe ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>celot / for that nyght or the daye after ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot ſholde come where theſe .xxx. knyghtes were. And ſo this da<g ref="char:EOLhyphen"/>moyſel mette with ſyr Bors ſyr Bleo<g ref="char:EOLunhyphen"/>berys ſyr Ector &amp; ſyr Dryaunt / and there ſhe tolde them all foure of the treaſon of Morgan le fay / and thenne the promyſed her that they wolde be nyghe where ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot ſholde mete with the .xxx. knyghtes / and yf ſo be that they ſette vpon hym we wyll doo reſcowes as we can. So the damoyſell departed / and by aduenture the damoy<g ref="char:EOLunhyphen"/>ſell mette with ſyr Tryſtram &amp; with ſyr Dynadan / &amp; there the damoyſell tolde them all the treaſon that was or<g ref="char:EOLunhyphen"/>deyned for ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot. Fayre damoy<g ref="char:EOLunhyphen"/>ſell ſayd Tryſtram brynge me to y<hi rend="sup">t</hi> ſame place where they ſholde mete with ſyr Launcelot. Thenne ſayd ſyr Dynadan what wyll ye do / hit is not for vs to fyght with .xxx. knyghtes / &amp; wete you well I wyll not therof / as to matche one knyght or two or thre is ynough and they be men. But for to matche .xv. knyghtes that wyll I ne<g ref="char:EOLhyphen"/>uer vndertake. Fye for ſhame ſayd ſyr Tryſtram do but your parte Nay ſayd ſyr Dynadan I wyl not therof / but yf ye wyl lene me your ſhelde / for ye bere a ſhelde of Cornewayle / &amp; for the co<g ref="char:EOLhyphen"/>wardyſe that is named to the knygh<g ref="char:EOLhyphen"/>tes of Cornewayle ye be euer forborne Nay ſayd ſyr Tryſtram I wyl not de<g ref="char:EOLunhyphen"/>parte from my ſhelde for her ſake that gaf it me. But one thynge ſayd ſyr Tryſtram I promyſe the ſyr Dyna<g ref="char:EOLhyphen"/>dan but yf thou wylt promyſe me to abyde with me / here I ſhall ſlee the. For I deſyre noo more of the but an<g ref="char:EOLhyphen"/>ſwere one knyght / &amp; yf thy herte wyll not ſerue the ſtande by and loke vpon me &amp; them. Syr ſayd ſyr Dynadan I promyſe you to loke vpon &amp; doo what I may to ſaue my ſelfe / but I wolde that I hadde not mette with you. So thenne anone theſe .xxx. knyghtes ca<g ref="char:EOLhyphen"/>me faſte by theſe foure knyghtes / and they were ware of them / &amp; eyther of other. And ſo theſe .xxx. knyghtes lete for this cauſe y<hi rend="sup">t</hi> they wolde not wrathe them yf cauſe be y<hi rend="sup">t</hi> they had ado with ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot / &amp; the foure knyghtes le<g ref="char:EOLhyphen"/>te them paſſe to this entent that they wolde ſee &amp; beholde what they wolde do with ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot / and ſo the .xxx. knyghtes paſt on / &amp; came by ſyr Try<g ref="char:EOLunhyphen"/>ſtram &amp; by ſyr Dynadan / and thenne
+<pb facs="tcp:15677:2"/>ſyr Tryſtram cryed on hyghe / loo here is a knyght agaynſt you for the loue of ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot / &amp; there he ſlewe two with one ſpere and .x. with his ſwerde And thenne came in ſyr Dynadan &amp; he dyde paſſynge well / &amp; ſo of the .xxx. knyghtes there wente but .x. awaye &amp; they fledde. All this batayll ſawe ſyr Bors de ganys &amp; his thre felowes / and thenne they ſawe well hit was the ſa<g ref="char:EOLhyphen"/>me knyght that Iuſted with them at the brydge / thenne they toke theyr hor<g ref="char:EOLunhyphen"/>ſes &amp; rode vnto ſyr Tryſtram &amp; pray<g ref="char:EOLhyphen"/>ſed hym and thanked hym of his good dedes / &amp; they al deſyred ſyr Tryſtram to go with them to theyr lodgynge / &amp; he ſayd nay he wolde not go to no lod<g ref="char:EOLunhyphen"/>gynge. Thenne they all foure knygh<g ref="char:EOLhyphen"/>tes prayed hym to telle them his name Fayre lordes ſayd ſyr Tryſtram / as at this tyme I wyll not telle you my name.</p>
+         </div>
+         <div n="24" type="chapter">
+            <head>¶ How ſyr Tryſtram &amp; ſyr Dynadan came to a lodgynge where they muſte Iuſte with two knyghtes. ca. xxiiij.</head>
+            <p>UHenne ſyr Tryſtram and ſyr Dynadan rode forth on theyr waye tyll they came to the ſhepherdes &amp; to the herde men / and there they aſ<g ref="char:EOLhyphen"/>ked them yf they knewe ony lodgynge or herberowe there nyghe honde. For<g ref="char:EOLhyphen"/>ſothe ſyrs ſayd the herde men / here by is good lodgynge in a caſtel / but there is ſuche a cuſtome that there ſhall no knyght be herberowed but yf he Iuſte with two knyghtes / and yf ye be but one knyght he muſt Iuſte with two / &amp; as ye be therin ſoone ſhall ye be mat<g ref="char:EOLhyphen"/>ched. Soo there is ſhrewde herberowe ſayd ſyr Dynadan / lodge where y<hi rend="sup">t</hi> ye wyll for I wyl not lodge there. Fye for ſhame ſayd ſyr Tryſtram are ye not a knyght of the table rou<g ref="char:cmbAbbrStroke">̄</g>de / wherfore ye may not with your worſhyp refuſe your lodgynge. Not ſo ſayd the herde men / for &amp; ye be beten and haue the wors ye ſhall not be lodged there / &amp; yf ye bete them ye ſhall be well herbero<g ref="char:EOLhyphen"/>wed. A ſayd ſyr Dynadan they are two ſure knyghtes / thenne ſyr Dyna<g ref="char:EOLhyphen"/>dan wolde not lodge there in no ma<g ref="char:EOLhyphen"/>nere / but as ſyr Tryſtram <abbr>requyred</abbr> hym of his knyghthode / &amp; ſo they ro<g ref="char:EOLhyphen"/>de thyder / and to make ſhorte tale ſyr Tryſtram &amp; ſyr Dynadan ſmote hem doun both / and ſo they entred in to the caſtell &amp; hadde good chere as well as they coude thynke or deuyſe / &amp; whan they were vnarmed and thought to be mery &amp; in good reſte / there came in at the yates ſyr Palomydes &amp; ſyr Gahe<g ref="char:EOLunhyphen"/>rys requyrynge to haue the cuſtome of the caſtell. What arraye is this ſayd ſyr Dynadan. I wolde haue my reſt / That may not be ſayd ſyr Tryſtram now muſt we nedes defende the cuſto<g ref="char:EOLunhyphen"/>me of this caſtell / in ſoo moche as we haue the better of the lordes of this ca<g ref="char:EOLunhyphen"/>ſtel / &amp; therfore ſayd ſyr Tryſtram ne<g ref="char:EOLhyphen"/>des muſt ye make you redy. In the de<g ref="char:EOLunhyphen"/>uyls name ſayd ſyr Dynadan came I in to your company / &amp; ſoo they made them redy. And ſyr Gaherys encoun<g ref="char:EOLhyphen"/>tred with ſyr Tryſtram / &amp; ſyr Gahe<g ref="char:EOLunhyphen"/>rys had a falle &amp; ſyr Palomydes en<g ref="char:EOLhyphen"/>cou<g ref="char:cmbAbbrStroke">̄</g>tred with ſyr Dynadan &amp; ſyr Dy<g ref="char:EOLunhyphen"/>nadan had a falle / then<g ref="char:cmbAbbrStroke">̄</g>e was hit falle for falle. Soo thenne muſt they fyght on foot / that wolde not ſyr Dynadan for he was ſo ſore bryſed of the falle y<hi rend="sup">t</hi> ſyr Palomydes gaf hym. Thenne ſyr Tryſtram vnlaced ſyr Dynadans hel<g ref="char:EOLunhyphen"/>me
+<pb facs="tcp:15677:3"/>&amp; prayed hym to helpe hym. I wyl not ſayd ſyr Dynadan / for I am ſore wou<g ref="char:cmbAbbrStroke">̄</g>ded of the .xxx. knyghtes that we had but late agoo to do withall. But ye fare ſayd ſyr Dynadan vnto ſyr Tryſtram as a madde man and as a man that is out of his mynde y<hi rend="sup">t</hi> wol<g ref="char:EOLhyphen"/>de caſte hymſelf awaye / &amp; I may cur<g ref="char:EOLhyphen"/>ſe the tyme that euer I ſawe you. For in all the worlde are not ſuche two knyghtes that ben ſoo wood as is ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot &amp; ye ſyr Tryſtram / for ones I felle in the felauſhyp of ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>ce<g ref="char:EOLhyphen"/>lot as I haue done now with you &amp; he ſette me a werke that a quarter of a yere I kepte my bedde. Iheſu defende me ſayd ſyr Dynadan from ſuche two knyghtes / &amp; ſpecyally from your fe<g ref="char:EOLhyphen"/>lauſhyp. Thenne ſayd ſyr Tryſtram I wyll fyght with them both. And ſo ſyr Tryſtram badde them come forth both / for I wyll fyght with you. And thenne ſyr Palomydes &amp; ſyr Gaherys dreſſyd them &amp; ſmote at them both / &amp; then<g ref="char:cmbAbbrStroke">̄</g>e ſyr Dynadan ſmote at ſyr Ga<g ref="char:EOLunhyphen"/>herys a ſtroke or two / &amp; torned from hym. Nay ſayd ſyr Palomydes it is to moche ſhame for vs two knyghtes to fyght with one / and thenne he dyde bydde ſyr Gaherys ſtande a ſyde w<hi rend="sup">t</hi> that knyght y<hi rend="sup">t</hi> hath no lyſte to fyght / And then<g ref="char:cmbAbbrStroke">̄</g>e they rode togyder &amp; fought longe / and at the laſte ſyr Tryſtram doubled his ſtrokes &amp; drofe ſyr Palo<g ref="char:EOLhyphen"/>mydes a backe more than thre thrydes And thenne by one aſſente ſyr Gahe<g ref="char:EOLhyphen"/>rys and ſyr Dynadan wente betwixt them &amp; departed them in ſonder. And thenne by aſſente of ſyr Tryſtram they wolde by aſſente of ſyr Tryſtram they wolde haue lodged togyder. But ſyr Dynadan wolde not lodge in that caſtell / &amp; then<g ref="char:cmbAbbrStroke">̄</g>e he curſed the tyme that euer he came in theyr felauſhyp / &amp; ſoo he toke his hors &amp; his harneys and de<g ref="char:EOLunhyphen"/>parted / thenne ſyr Tryſtram prayed the lordes of that caſtell to lene hym a man to brynge hym to a lodgynge / &amp; ſo they dyde &amp; ouertoke ſyr Dynadan and rode to theyr lodgynge two myle thens with a good man in a pryory &amp; there they were well at eaſe. And that ſame nyght ſyr Bors &amp; ſyr Bleobe<g ref="char:EOLhyphen"/>rys &amp; ſyr Ector and ſyr Dryau<g ref="char:cmbAbbrStroke">̄</g>t abo<g ref="char:EOLhyphen"/>de ſtylle in the ſame place there as ſyr Tryſtram fought w<hi rend="sup">t</hi> the .xxx. knygh<g ref="char:EOLhyphen"/>tes / &amp; there they mette with ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>celot the ſame nyght / and had made promyſe to lodge with ſyr Colgreuau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ce the ſame nyght.</p>
+         </div>
+         <div n="25" type="chapter">
+            <head>¶ How ſyr Tryſtram Iuſted with ſyr Pray &amp; ſyr Sagramor le deſyrus / and how ſyr Gawayne torned Try<g ref="char:EOLhyphen"/>ſtram fro Morgan le fay. ca. xxv.</head>
+            <p>BVt anone as the noble knyght ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot herde of the ſhel<g ref="char:EOLhyphen"/>de of Cornewayle thenne wyſt he wel that hit was was ſyr Tryſtram that fought with his enemyes / &amp; then<g ref="char:cmbAbbrStroke">̄</g>e ſyr Lau<g ref="char:cmbAbbrStroke">̄</g>celot prayſed ſyr Tryſtram and called hym the man of mooſt worſhyp in the worlde. So there was a knyght in that pryory that hyght Pellynore / &amp; he deſyred to wete y<hi rend="sup">e</hi> name of ſyr Try<g ref="char:EOLunhyphen"/>ſtram but in no wyſe he coude not / &amp; thenne ſyr Tryſtram departed &amp; lefte ſyr Dynadan in the pryory / for he was ſoo wery and ſoo bryſed that he myght not ryde. And then this knyȝt ſyr Pellynore ſayd to ſyr Dynadan / ſythen that ye wyll not telle me that knyghtes name / thenne wyll I ryde after hym and make hym to telle me <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:15677:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
